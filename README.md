@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I Love Cars**
 
-- 🌱 My university Account <a href="https://github/IT22927316" target="blank">Click Here!</a>
+- 🌱 My university Account <a href="https://github.com/IT22927316" target="blank">Click Here!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
