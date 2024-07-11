@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
 <h1 align="center">Rusiru Kalendra Here! 👋</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">Crafting intuitive UI/UX designs one pixel at a time 🎨 | Passionate about code and creativity 💻✨"</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rusiru-ds&label=Profile%20views&color=0e75b6&style=flat" alt="rusiru-ds" />
