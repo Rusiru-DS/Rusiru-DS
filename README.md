@@ -122,10 +122,3 @@
 <br>
 <br>
 
-
----
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rusiru-ds&show_icons=true&locale=en" alt="rusiru-ds" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rusiru-ds&" alt="rusiru-ds" /></p>
