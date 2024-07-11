@@ -13,7 +13,7 @@
 </p>
 
 ---
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*9m-WDdL_ji01bGbjEnutEw.gif">
+<img align="right" alt="Coding" width="400" src="https://www.blogsaays.com/wp-content/uploads/2022/11/android-gif-banner-2.gif">
 
 - 🌱 I’m currently learning **Software Engineering @ SLIIT University**
 
