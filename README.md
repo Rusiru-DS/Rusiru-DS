@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Rusiru Kalendra, UI/UX & Product Designer">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Doto&weight=900&size=40&duration=3200&pause=1600&color=F0F6FC&center=true&vCenter=true&width=760&height=100&letterSpacing=3px&lines=RUSIRU+KALENDRA;UI%2FUX+%26+PRODUCT+DESIGNER;SOFTWARE+ENGINEERING+GRADUATE;OPEN+TO+WORK">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Doto&weight=900&size=40&duration=3200&pause=1600&color=1F2328&center=true&vCenter=true&width=760&height=100&letterSpacing=3px&lines=RUSIRU+KALENDRA;UI%2FUX+%26+PRODUCT+DESIGNER;SOFTWARE+ENGINEERING+GRADUATE;OPEN+TO+WORK">
+  <img alt="Rusiru Kalendra, UI/UX & Product Designer" src="https://readme-typing-svg.demolab.com?font=Doto&weight=900&size=40&duration=3200&pause=1600&color=8B949E&center=true&vCenter=true&width=760&height=100&letterSpacing=3px&lines=RUSIRU+KALENDRA;UI%2FUX+%26+PRODUCT+DESIGNER;SOFTWARE+ENGINEERING+GRADUATE;OPEN+TO+WORK">
+</picture>
 
 <br>
 
@@ -15,9 +19,9 @@
 <img src="https://img.shields.io/badge/-Available%20for%20work-2ea043?style=flat-square&logo=statuspage&logoColor=white">
 <img src="https://komarev.com/ghpvc/?username=rusiru-ds&label=Views&color=30363d&style=flat-square">
 
-<img src="assets/divider.svg" width="100%" alt="">
-
 </div>
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=900&size=14&duration=5000&pause=1500&color=8B949E&center=true&vCenter=true&width=760&height=30&lines=%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2" alt=""></div>
 
 ## About
 
@@ -31,7 +35,7 @@ I work on user flows, wireframes, high-fidelity interfaces, prototypes, design s
 - Exploring AI-assisted design workflows
 - Looking for a full-time product design role
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=900&size=14&duration=5000&pause=1500&color=8B949E&center=true&vCenter=true&width=760&height=30&lines=%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2" alt=""></div>
 
 ## Stack
 
@@ -57,7 +61,7 @@ I work on user flows, wireframes, high-fidelity interfaces, prototypes, design s
 
 </details>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=900&size=14&duration=5000&pause=1500&color=8B949E&center=true&vCenter=true&width=760&height=30&lines=%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2" alt=""></div>
 
 ## Experience
 
@@ -99,7 +103,7 @@ Graduated with a strong foundation in software development and practical enginee
 <summary><b>GCE Advanced Level, Physical Science</b> · Mahinda College, Galle</summary>
 </details>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=900&size=14&duration=5000&pause=1500&color=8B949E&center=true&vCenter=true&width=760&height=30&lines=%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2" alt=""></div>
 
 ## Activity
 
@@ -124,6 +128,6 @@ Graduated with a strong foundation in software development and practical enginee
 
 <a href="mailto:russapaypal@gmail.com"><img src="https://img.shields.io/badge/Let's%20work%20together-russapaypal%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white"></a>
 
-<img src="assets/divider.svg" width="100%" alt="">
-
 </div>
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=900&size=14&duration=5000&pause=1500&color=8B949E&center=true&vCenter=true&width=760&height=30&lines=%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2" alt=""></div>
